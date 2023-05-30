@@ -116,12 +116,12 @@ p {
   .luxury {
     width: 100vw;
     height: 100%;
-    aspect-ratio: auto;
+    align-items: stretch;
+    overflow-wrap: normal;
   }
 
   .sedans {
     order: 1;
-    border-bottom-left-radius: 0;
   }
 
   .SUVs {
@@ -130,6 +130,8 @@ p {
 
   .luxury {
     order: 3;
-    border-top-right-radius: 0;
+  }
+  .button {
+    margin: 2% auto;
   }
 }
