@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <title>Frontend Mentor | QR code component</title>
+  <style>
+    .container { /* whole ass body of webpage*/
+        display:flex;
+        flex-flow: column nowrap;
+        background-color: hsl(212, 45%, 89%);
+        width: 100vw;
+        height:100vh;
+        justify-content: center;
+        align-items: center;
+        font-family: Outfit;
+        
+    }
+    .white { /*white main section*/
+        background-color: white;
+        display:flex;
+        flex-flow: column nowrap;
+        justify-content: center;
+        align-items: center;
+        height: 60vh;
+        width: 35vh;
+        border-radius:15px;
+        padding:10px;
+    }
+   
+    .white img { /*this is for the QR Code image only*/
+      max-width: 100%;
+      max-height: 100%;
+      border-radius: 0.625em;
+      margin-top: 2%;
+      overflow: hidden;
+    }
+
+    .p1 {
+        display:flex;
+        order: 2;
+        padding-left: 1em;
+        padding-right: 1em;
+        text-align: center;
+        font-weight:700;
+        font-size: 1.25em;
+    }
+    .p2 {
+        display:flex;
+        order: 3;
+        font-size: 1em;
+        padding-left: 1em;
+        padding-right: 1em;
+        padding-bottom: 0.625em;
+        text-align: center;
+        font-weight:400;
+        color: hsl(220, 15%, 55%);
+    }
+
+    @media (max-width: 600px) {
+      .p1 {
+        font-size: 1em;
+      }
+
+      .p2 {
+        font-size: 0.8em;
+      }
+    }
+
+    @media (max-width: 400px) {
+      .p1 {
+        font-size: 0.8em;
+      }
+
+      .p2 {
+        font-size: 0.6em;
+      }
+    }
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+<body>
+<div class="container">
+    <div class="white">
+        <img src="C:\Users\Nadia\Documents\Nadia Code Projects\QR Code Challenge\images\image-qr-code.png" alt="QR Code">
+    <p class="p1">Improve your front-end skills by building projects</p>
+    <p class="p2">Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+    </div>
+</div>
+  <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">BonnieMira</a>.
+
+</div>
+</body>
+</html>
