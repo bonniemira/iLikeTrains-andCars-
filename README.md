@@ -37,7 +37,7 @@ Mobile [screenshot goes here]
 
 ## My process
 
-Mostly the same, but with a lot more attention given to the Flexbox property and how to make it work in my favour. I struggled quite a bit with adapting this to mobile sizing/display and lol look at me writing this in past tense; I still can't get the <div>s to stack as desired. I look forward to updating this once I figure out what I royally forked up. 
+Mostly the same, but with a lot more attention given to the Flexbox property and how to make it work in my favour. I struggled quite a bit with adapting this to mobile sizing/display and lol look at me writing this in past tense; I still can't get the divs to stack as desired. I look forward to updating this once I figure out what I royally forked up. 
 	
 ### Built with
 
