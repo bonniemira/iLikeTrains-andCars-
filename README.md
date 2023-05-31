@@ -50,6 +50,7 @@ Mostly the same, but with a lot more attention given to the Flexbox property and
 - Some valuable refreshers on inherited properties
 - You can lay out CSS for multiple classes/elements at the same time as follows:
 
+```
 	.sedans,
 	.SUVs,
 	.luxury {
@@ -59,11 +60,11 @@ Mostly the same, but with a lot more attention given to the Flexbox property and
 	  margin-top: auto;
 	  margin-bottom: auto;
 	}
-	
+```
 
 ### Continued development
 
-I need to improve my semantic HTML. I applied virtually none in my QR code project, and have defaulted to using <div> for almost everything while focusing on layout and design rather than on content. While I am learning the design components at the moment it is important not to forget the value of semantic markup both for good practice and much more importantly for accessibility's sake. Also my indents are trash. 
+I need to improve my semantic HTML. I applied virtually none in my QR code project, and have defaulted to using divs for almost everything while focusing on layout and design rather than on content. While I am learning the design components at the moment it is important not to forget the value of semantic markup both for good practice and much more importantly for accessibility's sake. Also my indents are trash. 
 
 ## Author
 
