@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-Desktop: [screenshot goes here]
+Desktop: ![bonniemira github io_iLikeTrains-andCars-_](https://github.com/bonniemira/iLikeTrains-andCars-/assets/124724575/54be7088-b11b-4e98-abb0-0ffc4bc2a100)
 
 Mobile [screenshot goes here]
 
