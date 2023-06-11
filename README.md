@@ -28,16 +28,17 @@ Users should be able to:
 
 Desktop: ![bonniemira github io_iLikeTrains-andCars-_](https://github.com/bonniemira/iLikeTrains-andCars-/assets/124724575/54be7088-b11b-4e98-abb0-0ffc4bc2a100)
 
-Mobile [screenshot goes here]
+Mobile ![bonniemira github io_iLikeTrains-andCars-_(iPhone SE)](https://github.com/bonniemira/iLikeTrains-andCars-/assets/124724575/98d3213f-93b2-4769-9447-4f5fa67a4426)
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
+-   Solution URL: https://www.frontendmentor.io/solutions/can-an-egg-drive-a-car-ELYmGu1wdg
 -   Live Site URL: https://bonniemira.github.io/iLikeTrains-andCars-/
 
 ## My process
 
 Mostly the same, but with a lot more attention given to the Flexbox property and how to make it work in my favour. I struggled quite a bit with adapting this to mobile sizing/display and lol look at me writing this in past tense; I still can't get the divs to stack as desired. I look forward to updating this once I figure out what I royally forked up. 
+Update: Forked up a lot. Ironed out most of the kinks but clearly there's much to learn. 
 	
 ### Built with
 
