@@ -118,7 +118,7 @@ h4:hover {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
-@media (max-width: 376px) and(orientation: landscape) {
+@media (max-width: 376px) {
   body {
     display: flex;
     flex-direction: column;
